@@ -1,0 +1,12 @@
+order_id,customer_id,country,order_date,product,quantity,unit_price
+1,1001,USA,2026-01-10,Laptop,2,1200
+2,1002,United States,2026-01-11,Mouse,5,25
+3,1003,U.S.,2026-01-12,Keyboard,3,45
+4,1004,,2026-01-13,Monitor,1,300
+5,1005,Canada,2026-01-14,Laptop,-1,1200
+6,1006,Mexico,2026-01-15,Mouse,2,-25
+7,1007,USA,2026-01-16,Headset,,80
+8,1008,Canada,2026-01-17,Monitor,2,300
+8,1008,Canada,2026-01-17,Monitor,2,300
+9,1009,Mexico,2026-01-18,Laptop,1,1200
+10,1010,USA,2026-01-19,Keyboard,4,45
